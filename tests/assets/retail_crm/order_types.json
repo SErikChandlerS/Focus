@@ -1,0 +1,245 @@
+{
+    "success": true,
+    "orderTypes": {
+        "vchp": {
+            "name": "ViaDelivery - частичная предоплата",
+            "code": "vchp",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "sampost": {
+            "name": "Самовывоз - постоплата",
+            "code": "sampost",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "sampred": {
+            "name": "Самовывоз - предоплата",
+            "code": "sampred",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 993
+        },
+        "sbertipprob": {
+            "name": "Пробники - СберЛогистика",
+            "code": "sbertipprob",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 989
+        },
+        "orchp": {
+            "name": "Ozon Rocket - частичная предоплата",
+            "code": "orchp",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "5pchp": {
+            "name": "5post - частичная предоплата",
+            "code": "5pchp",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "pochta-rossii-chastichnaia-predoplata": {
+            "name": "Почта России - частичная предоплата",
+            "code": "pochta-rossii-chastichnaia-predoplata",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "povtornaia-otpravka": {
+            "name": "Повторная отправка",
+            "code": "povtornaia-otpravka",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "5post": {
+            "name": "5post - предоплата",
+            "code": "5post",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "avtokviz-postoplata": {
+            "name": "Автоквиз - постоплата",
+            "code": "avtokviz-postoplata",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "ozonrocket": {
+            "name": "Ozon Rocket - предоплата",
+            "code": "ozonrocket",
+            "active": true,
+            "default_for_crm": true,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "via": {
+            "name": "ViaDelivery - предоплата",
+            "code": "via",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 982
+        },
+        "avtokviz-predoplata": {
+            "name": "Автоквиз - предоплата",
+            "code": "avtokviz-predoplata",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "insales": {
+            "name": "InSales",
+            "code": "insales",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "rf": {
+            "name": "Почта России - предоплата",
+            "code": "rf",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 991
+        },
+        "5post2": {
+            "name": "5post - постоплата",
+            "code": "5post2",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "viaprob": {
+            "name": "Рекурент",
+            "code": "viaprob",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 980
+        },
+        "alikprob": {
+            "name": "Алиэкспресс - пробники",
+            "code": "alikprob",
+            "active": false,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 989
+        },
+        "sbertip": {
+            "name": "СберЛогистика",
+            "code": "sbertip",
+            "active": false,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "kurer-sberlogistika": {
+            "name": "Курьер - Сберлогистика",
+            "code": "kurer-sberlogistika",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "pochta-rossii-postoplata": {
+            "name": "Почта России - постоплата",
+            "code": "pochta-rossii-postoplata",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "viadelivery-postoplata": {
+            "name": "ViaDelivery - постоплата",
+            "code": "viadelivery-postoplata",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 981
+        },
+        "msk": {
+            "name": "Курьер по Москве",
+            "code": "msk",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 992
+        },
+        "probmsk": {
+            "name": "Пробники - курьер по Москве",
+            "code": "probmsk",
+            "active": false,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 989
+        },
+        "probrf": {
+            "name": "Почта России - пробники",
+            "code": "probrf",
+            "active": false,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 989
+        },
+        "eshop-individual": {
+            "name": "Физическое лицо",
+            "code": "eshop-individual",
+            "active": false,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 10
+        },
+        "eshop-legal": {
+            "name": "Юридическое лицо",
+            "code": "eshop-legal",
+            "active": false,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 20
+        },
+        "subscription": {
+            "name": "Подписка",
+            "code": "subscription",
+            "active": false,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "ozon": {
+            "name": "OZON Маркетплейс",
+            "code": "ozon",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        },
+        "ozonrocket2": {
+            "name": "Ozon Rocket - постоплата",
+            "code": "ozonrocket2",
+            "active": true,
+            "default_for_crm": false,
+            "default_for_api": false,
+            "ordering": 990
+        }
+    }
+}
